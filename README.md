@@ -6,6 +6,7 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    
 
 # React Note Application :memo:
 
@@ -18,5 +19,11 @@ Currently, two official plugins are available:
 <br>
 - archive notes
 <br><br>
-- image
-![contoh project](public/capture.png)
+- image:<br>
+- 
+
+![image](https://github.com/jesslynauryn/personal-notes-react/assets/88038899/9d2f6325-1384-4ede-8dbf-2b107cfc42fb)
+
+
+(https://github.com/jesslynauryn/personal-notes-react/blob/main/public/capture.png?raw=true)
+
