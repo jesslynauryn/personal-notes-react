@@ -8,7 +8,7 @@ class NoteBody extends React.Component {
     super(props);
     this.state = {
       notes: getInitialData(),
-      searchKeyword: '', //state kolom pencarian
+      searchKeyword: '',
     };
 
     this.onAddNoteHandler = this.onAddNoteHandler.bind(this);
